@@ -1,0 +1,7 @@
+fastapi
+requests
+uvicorn[standard]
+sentencepiece
+torch
+transformers
+numpy
